@@ -19,9 +19,9 @@ En el blackjack las cartas tienen un valor propio. Si queremos jugar cada vez me
 - En el juego fisico la carta del As (A) es la única que tiene dos valores, 1 y 11. El jugador que tiene el As puede elegir su valor según le convenga, en el caso de este juego vale 11.
 - Las cartas de la J, la Q y la K tienen un valor de 10 puntos cada una.
 
-Ahora sabes, como todo buen jugador de blackjack 21 debe saber, que en una baraja de 52 cartas, hay 16 que valen 10 puntos.
+Ahora sabes, como todo buen jugador de BlackJack 21 debe saber, que en una baraja de 52 cartas, hay 16 que valen 10 puntos.
 
 <h3>Prueba el prototipo del juego <a href="https://yoel-gasca.github.io/BlackjackJuego/">aquí</a></h3>
 
 <h4>Advertencia</h4>
-La intención del desarrollo de este juego es proporcionar una experiencia de juego sana y responsable. En ningún momento se busca fomentar la adicción a los juegos de azar o apuestas y queda estrictamente prohibido su uso para estos fines.
+La intención del desarrollo de este prototipo del juego es proporcionar una experiencia de juego sana y responsable. En ningún momento se busca fomentar la adicción a los juegos de azar o apuestas y queda estrictamente prohibido su uso para estos fines.
