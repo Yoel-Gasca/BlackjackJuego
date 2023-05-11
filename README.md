@@ -2,7 +2,7 @@
 Juego de cartas modo Blackjack
 <br>
 
-El BlackJack es la adaptación moderna de un juego antiquísimo: La Veintiuna, que se jugaba en la España de Miguel de Cervantes. Hoy en día, es uno de los dos juegos de cartas de la baraja inglesa más populares del mundo.<br><br>
+El BlackJack es la adaptación moderna de un juego antiquísimo: La Veintiuna, que se jugaba en la España de Miguel de Cervantes. Hoy en día, es uno de los dos modos de juego de cartas de la baraja inglesa más populares del mundo.<br><br>
 El objetivo del BlackJack es sencillo: el jugador se enfrenta a la computadora, en busca de conseguir la suma que de como resultado 21 puntos, o un número lo más cercano posible con las cartas que va obteniendo al pedirlas.<br><br>
 Sugerencias:
 - Si tiene 16 puntos o menos, puede pedir otra carta para tratar de acercarse a los 21. 
