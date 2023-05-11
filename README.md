@@ -11,7 +11,7 @@ Ejemplo:
 
 ![image](https://github.com/Yoel-Gasca/BlackjackJuego/assets/83617933/9c9d792f-ce42-481c-8970-d61f846efe6d)
 
-
+- Cabe la posibilidad de que haya un empate si se obtiene la misma cantidad de puntos entre el jugador y la computadora en este caso ninguno gana y puede hacer un nuevo juego para volver a intentar ganar.
 <h2>Valor de las cartas en BlackJack</h2>
 En el BlackJack las cartas tienen un valor propio. Si queremos jugar cada vez mejor y sumar nuestros 21 puntos debemos conocer al pie de la letra el valor que le corresponde a cada carta.<br>
 
