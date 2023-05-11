@@ -13,7 +13,7 @@ Ejemplo:
 
 
 <h2>Valor de las cartas en BlackJack</h2>
-En el blackjack las cartas tienen un valor propio. Si queremos jugar cada vez mejor y sumar nuestros 21 puntos debemos conocer al pie de la letra el valor que le corresponde a cada carta.<br>
+En el BlackJack las cartas tienen un valor propio. Si queremos jugar cada vez mejor y sumar nuestros 21 puntos debemos conocer al pie de la letra el valor que le corresponde a cada carta.<br>
 
 - Las cartas del 2 al 10 están valuadas de acuerdo a su numeración. 
 - En el juego fisico la carta del As (A) es la única que tiene dos valores, 1 y 11. El jugador que tiene el As puede elegir su valor según le convenga, en el caso de este juego vale 11.
