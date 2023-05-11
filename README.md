@@ -6,7 +6,7 @@ El BlackJack es la adaptación moderna de un juego antiquísimo: La Veintiuna, q
 El objetivo del BlackJack es sencillo: el jugador se enfrenta a la computadora, en busca de conseguir la suma que de como resultado 21 puntos, o un número lo más cercano posible con las cartas que va obteniendo al pedirlas.<br><br>
 Sugerencias:
 - Si tiene 16 puntos o menos, puede pedir otra carta para tratar de acercarse a los 21. 
-- Si tiene 17 puntos o más, algo cercano a 21 se puede detener o mejor dicho ya no pedir cartas y esperar a que la computadora no saque la suma de un numero cercano o exacto a 21.<br><br>
+- Si tiene 17 puntos o más, algo cercano a 21 se puede detener o mejor dicho ya no pedir cartas y esperar a que la computadora no saque la suma de un numero mas cercano o exacto a 21.<br><br>
 Ejemplo:
 
 ![image](https://github.com/Yoel-Gasca/BlackjackJuego/assets/83617933/9c9d792f-ce42-481c-8970-d61f846efe6d)
