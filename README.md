@@ -24,4 +24,9 @@ Ahora sabes, como todo buen jugador de BlackJack 21 debe saber, que en una baraj
 <h3>Prueba el prototipo del juego <a href="https://yoel-gasca.github.io/BlackjackJuego/">aquí</a></h3>
 
 <h4>Advertencia</h4>
-La intención del desarrollo de este prototipo del juego es proporcionar una experiencia de juego sana y responsable. En ningún momento se busca fomentar algún tipo adicción a los juegos de azar o apuestas y se sugiere que no se use para estos fines.
+La intención del desarrollo de este prototipo del juego es proporcionar una experiencia de juego sana y responsable. En ningún momento se busca fomentar algún tipo adicción a los juegos de azar o apuestas y se sugiere que no se use para estos fines.<br/>
+
+## Tecnologías utilizadas para este proyecto:<br/>
+- Plataforma del juego: Web <br/>
+- Lenguaje de programación utilizado: JavaScript <br/> <br/>
+
