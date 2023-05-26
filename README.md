@@ -21,7 +21,7 @@ En el BlackJack las cartas tienen un valor propio. Si queremos jugar cada vez me
 
 Ahora sabes, como todo buen jugador de BlackJack 21 debe saber, que en una baraja de 52 cartas, hay 16 que valen 10 puntos.
 
-<h3>Prueba el prototipo del juego <a href="https://yoel-gasca.github.io/BlackjackJuego/">aquí</a></h3>
+<h3>Jugar a <a href="https://yoel-gasca.github.io/BlackjackJuego/">BlackJack 21</a></h3>
 
 <h4>Advertencia</h4>
 La intención del desarrollo de este prototipo del juego es proporcionar una experiencia de juego sana y responsable. En ningún momento se busca fomentar algún tipo adicción a los juegos de azar o apuestas y se sugiere que no se use para estos fines.<br/>
