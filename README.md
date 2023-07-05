@@ -9,7 +9,8 @@ Sugerencias:
 - Si tiene 17 puntos o más, algo cercano a 21 se puede detener o mejor dicho ya no pedir cartas y esperar a que la computadora no saque la suma de un numero mas cercano o exacto a 21.<br><br>
 Ejemplo:
 
-![image](https://github.com/Yoel-Gasca/BlackjackJuego/assets/83617933/9c9d792f-ce42-481c-8970-d61f846efe6d)
+![image](https://github.com/Yoel-Gasca/BlackjackJuego/assets/83617933/a68b4cbc-4b08-412c-9924-9fa0a7abff5b)
+
 
 - Cabe la posibilidad de que haya un empate si se obtiene la misma cantidad de puntos entre el jugador y la computadora en este caso ninguno gana y puede hacer un nuevo juego para volver a intentar ganar.
 <h2>Valor de las cartas en BlackJack</h2>
